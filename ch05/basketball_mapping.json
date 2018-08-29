@@ -2,11 +2,11 @@
 	"record" : {
 		"properties" : {
 			"team" : {
-				"type" : "string",
+				"type" : "text",
 				"fielddata" : true
 			},
 			"name" : {
-				"type" : "string",
+				"type" : "text",
 				"fielddata" : true
 			},
 			"points" : {
